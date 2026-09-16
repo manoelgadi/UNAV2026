@@ -2,10 +2,6 @@
 
 Repositorio de materiales para el curso de **Universidad de Navarra (UNAV) / Programa PwC 2026–2027**, impartido por **Prof. Manoel Gadi**.
 
-Este repositorio contiene las presentaciones, notebooks, ejercicios, ejemplos y otros materiales utilizados durante el curso.
-
-El curso sigue un recorrido práctico desde los fundamentos de programación hasta el desarrollo y despliegue de modelos:
-
 **Python → Estructuras de Datos → Análisis Exploratorio de Datos → Estadística → Machine Learning → Evaluación de Modelos → APIs**
 
 ---
@@ -24,6 +20,23 @@ Profesor, investigador y profesional especializado en **Inteligencia Artificial,
 
 🎥 **YouTube:**
 [https://www.youtube.com/@phdmanoelgadi](https://www.youtube.com/@phdmanoelgadi)
+
+---
+
+# 🎥 Repaso después de la sesión 1 — Python con Socratica
+
+Después de la sesión 1, revisa brevemente estos vídeos para reforzar los conceptos vistos:
+
+* **Hello World**
+* **Strings**
+* **Numbers & Arithmetic**
+* **Booleans**
+* **If / Else**
+* **Functions**
+
+▶️ Playlist completa: https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-
+
+No es necesario memorizarlo todo. Abre Google Colab y prueba los ejemplos mientras ves los vídeos.
 
 ---
 
