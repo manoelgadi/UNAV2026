@@ -1,5 +1,3 @@
-Sí. En ese caso lo haría mucho más limpio: **presentación general del curso + calendario + tecnologías + materiales + profesor**, sin explicar el contenido de cada sesión.
-
 # UNAV 2026 — Python, Análisis de Datos y Machine Learning
 
 Repositorio de materiales para el curso de **Universidad de Navarra (UNAV) / Programa PwC 2026–2027**, impartido por **Prof. Manoel Gadi**.
