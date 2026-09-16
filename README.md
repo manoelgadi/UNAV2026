@@ -39,16 +39,16 @@ Después de la sesión 1, revisa brevemente estos vídeos para reforzar los conc
 No es necesario memorizarlo todo. Abre Google Colab y prueba los ejemplos mientras ves los vídeos.
 
 ---
+# 📅 Sesiones del curso
 
-# 📅 Calendario
+| Sesión       | Contenido                                                                                         |
+| ------------ | ------------------------------------------------------------------------------------------------- |
+| **Sesión 1** | 🐍 Introducción a la Programación                                                                 |
+| **Sesión 2** | 📊 Métodos Estadísticos para el Análisis e Interpretación de Datos Masivos — EDA                  |
+| **Sesión 3** | 🤖 Inteligencia Artificial: Machine Learning con Python Scikit-Learn — Desarrollo de Modelo       |
+| **Sesión 4** | 📈 Métodos Estadísticos para el Análisis e Interpretación de Datos Masivos — Métricas Avanzadas   |
+| **Sesión 5** | 🚀 Inteligencia Artificial: Machine Learning con Python Scikit-Learn y Flask — Despliegue con API |
 
-| Fecha                  | Horario     | Sesión                                                                                          |
-| ----------------------  | ----------------------------------------------------------------------------------------------- |
-| Sesión 1 | 🐍 Introducción a la Programación                                                               |
-| Sesión 2 | 📊 Métodos Estadísticos para el Análisis e Interpretación de Datos Masivos — EDA                |
-| Sesión 3 | 🤖 Inteligencia Artificial: Machine Learning con Python Scikit-Learn — Desarrollo de Modelo     |
-| Sesión 4 | 📈 Métodos Estadísticos para el Análisis e Interpretación de Datos Masivos — Métricas Avanzadas |
-| Sesión 5 | 🚀 Machine Learning con Python, Scikit-Learn y Flask — Despliegue con API                       |
 
 **Duración total: 20 horas**
 
