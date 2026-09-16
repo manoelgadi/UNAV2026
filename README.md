@@ -43,12 +43,12 @@ No es necesario memorizarlo todo. Abre Google Colab y prueba los ejemplos mientr
 # 📅 Calendario
 
 | Fecha                  | Horario     | Sesión                                                                                          |
-| ---------------------- | ----------- | ----------------------------------------------------------------------------------------------- |
-| **16 septiembre 2026** | 10:00–14:00 | 🐍 Introducción a la Programación                                                               |
-| **16 septiembre 2026** | 16:00–20:00 | 📊 Métodos Estadísticos para el Análisis e Interpretación de Datos Masivos — EDA                |
-| **18 septiembre 2026** | 10:00–14:00 | 🤖 Inteligencia Artificial: Machine Learning con Python Scikit-Learn — Desarrollo de Modelo     |
-| **21 septiembre 2026** | 10:00–14:00 | 📈 Métodos Estadísticos para el Análisis e Interpretación de Datos Masivos — Métricas Avanzadas |
-| **21 septiembre 2026** | 16:00–20:00 | 🚀 Machine Learning con Python, Scikit-Learn y Flask — Despliegue con API                       |
+| ----------------------  | ----------------------------------------------------------------------------------------------- |
+| Sesión 1 | 🐍 Introducción a la Programación                                                               |
+| Sesión 2 | 📊 Métodos Estadísticos para el Análisis e Interpretación de Datos Masivos — EDA                |
+| Sesión 3 | 🤖 Inteligencia Artificial: Machine Learning con Python Scikit-Learn — Desarrollo de Modelo     |
+| Sesión 4 | 📈 Métodos Estadísticos para el Análisis e Interpretación de Datos Masivos — Métricas Avanzadas |
+| Sesión 5 | 🚀 Machine Learning con Python, Scikit-Learn y Flask — Despliegue con API                       |
 
 **Duración total: 20 horas**
 
